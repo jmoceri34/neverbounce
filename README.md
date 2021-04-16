@@ -6,4 +6,4 @@
 
 <a name="overview"></a>
 ## Overview
-This project contains sample code for working with the NeverBounce API in C#. It shows how to batch and send emails for validation and parse the result
+This project contains sample code for working with the NeverBounce API in C#. It shows how to batch and send emails for validation and parse the result. Please see project for how to use.
